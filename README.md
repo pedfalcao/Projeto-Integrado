@@ -12,4 +12,4 @@ Pedro Henrique e
 [Vitória Pantoja](https://github.com/pantoja)
 
 ## Links úteis
-[Trello](https://trello.com/ifpe_estudante)
+[Trello](https://trello.com/projeto_integrado)
