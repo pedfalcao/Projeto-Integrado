@@ -1,6 +1,6 @@
 # Aplicativo Mobile IFPE
 
-Projeto desenvolvido para as cadeiras de SGE, GPN e PGP do Centro de Informática (CIN-UFPE) em 2020.1.
+Projeto desenvolvido para as cadeiras de SGE, GPN e PGP do Centro de Informática (CIn-UFPE) em 2020.1.
 
 ## Equipe
 [Adriana Alves](https://github.com/aas8),
